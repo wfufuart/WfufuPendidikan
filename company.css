@@ -1,0 +1,24 @@
+/* CSS Document */
+.slider h3,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba (0,0,0,0.5)
+}
+
+.parallax-container {
+	height: 100%;
+}
+
+.parallax img {
+	filter: grayscale();
+	opacity: 0.5
+}
+
+.card {
+	height: 260px
+}
+
+section, footer {
+	padding: 20px 0;
+}
+
